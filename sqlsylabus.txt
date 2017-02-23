@@ -1,0 +1,18 @@
+ACID property
+Sql Data types	
+Constraints.
+Projection	
+Selection
+Queries
+SubQueris
+sub queries (Co Related sub queries)
+Grouping
+Ordering
+Joins
+View, Index, Synonyms
+Introduction  on PL/SQL and Triggers.
+Codd Rules
+Normalization.
+ 	
+No Sql
+ Mongo DB
